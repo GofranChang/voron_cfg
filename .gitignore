@@ -1,1 +1,5 @@
 voron_2.4/ShakeTune_results/
+crowsnest.conf.*
+*.cfg-old
+printer-2*.cfg
+*backup*
