@@ -3,3 +3,4 @@ crowsnest.conf.*
 *.cfg-old
 printer-2*.cfg
 *backup*
+voron_2.4/.moonraker.conf.bkp
